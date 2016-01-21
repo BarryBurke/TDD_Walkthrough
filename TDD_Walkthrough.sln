@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Walkthrough", "TDD_Walkthrough\TDD_Walkthrough.csproj", "{61FDDB65-B8DA-4A8D-8A5F-6A7EF6D0D893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Walkthrough.Tests", "TDD_Walkthrough.Tests\TDD_Walkthrough.Tests.csproj", "{99961763-1835-4294-9FBC-6D72BB2BB353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61FDDB65-B8DA-4A8D-8A5F-6A7EF6D0D893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61FDDB65-B8DA-4A8D-8A5F-6A7EF6D0D893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61FDDB65-B8DA-4A8D-8A5F-6A7EF6D0D893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61FDDB65-B8DA-4A8D-8A5F-6A7EF6D0D893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99961763-1835-4294-9FBC-6D72BB2BB353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99961763-1835-4294-9FBC-6D72BB2BB353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99961763-1835-4294-9FBC-6D72BB2BB353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99961763-1835-4294-9FBC-6D72BB2BB353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
